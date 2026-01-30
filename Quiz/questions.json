@@ -1,0 +1,62 @@
+[
+  {
+    "question": "This language was created in just 10 days, and its name is not an abbreviation but refers to a type of snake. The language design focuses on readability and simplicity.",
+    "options": ["Cobra", "Python", "Anaconda", "Boa"],
+    "correctAnswer": 1,
+    "explanation": "Python was created by Guido van Rossum in the late 1980s. The name actually comes from the British comedy series 'Monty Python's Flying Circus,' not from the snake."
+  },
+  {
+    "question": "This language was originally called 'Oak,' but during registration, it was discovered that name was already taken. The creators then renamed it after a type of coffee from the island of Java.",
+    "options": ["Java", "Cappuccino", "Mocha", "Latte"],
+    "correctAnswer": 0,
+    "explanation": "Java was created by James Gosling at Sun Microsystems in 1995. The Java logo—a steaming cup of coffee—indeed symbolizes coffee."
+  },
+  {
+    "question": "The author of this language, Brendan Eich, created its prototype in just 10 days in 1995. Despite its name, it has almost no relation to Java.",
+    "options": ["LiveScript", "WebScript", "JavaScript", "ECMAScript"],
+    "correctAnswer": 2,
+    "explanation": "JavaScript was originally going to be called 'LiveScript,' but marketers believed that associating it with the then-popular Java would help its adoption. Today, JavaScript and Java have almost nothing in common."
+  },
+  {
+    "question": "Which programming language has a swift bird as its official mascot?",
+    "options": ["Swift", "Go", "Dart", "Kotlin"],
+    "correctAnswer": 0,
+    "explanation": "Swift from Apple indeed uses the swift as its mascot. The swift bird is one of the fastest birds in horizontal flight, symbolizing the language's speed."
+  },
+  {
+    "question": "This language was created at Google and named after a small burrowing rodent (gopher). Its mascot is a cute rodent.",
+    "options": ["Go", "Gopher", "Mole", "Groundhog"],
+    "correctAnswer": 0,
+    "explanation": "Go (often called Golang) was created at Google by Robert Griesemer, Rob Pike, and Ken Thompson. Its mascot is a gopher named Gordon."
+  },
+  {
+    "question": "Which programming language was developed by Microsoft and named after Danish scientist Anders Hejlsberg?",
+    "options": ["C#", "F#", "TypeScript", "Visual Basic"],
+    "correctAnswer": 0,
+    "explanation": "C# was created by Anders Hejlsberg. The name C# (C-sharp) refers to the musical sharp sign, which indicates a raised note—suggesting it as an 'enhanced version of C++.'"
+  },
+  {
+    "question": "This language, created by Yukihiro Matsumoto, is named after a precious gemstone. Its philosophy is 'programmer happiness.'",
+    "options": ["Ruby", "Diamond", "Crystal", "Perl"],
+    "correctAnswer": 0,
+    "explanation": "Ruby is indeed named after the precious gemstone ruby. Matsumoto wanted to create a language that brought programming joy, much like a beautiful gemstone."
+  },
+  {
+    "question": "Which language was created in 1972 and named after the French mathematician and philosopher Blaise Pascal?",
+    "options": ["Pascal", "Ada", "Fortran", "Algol"],
+    "correctAnswer": 0,
+    "explanation": "Pascal was created by Niklaus Wirth as a language for teaching structured programming. It's named after Blaise Pascal, the French mathematician and philosopher."
+  },
+  {
+    "question": "This language, developed by Mozilla, is named after a fighter plane from World War II. It's positioned as a safe systems programming language.",
+    "options": ["Rust", "Zig", "Nim", "V"],
+    "correctAnswer": 0,
+    "explanation": "Rust was actually named after rust fungi, but there's also a reference to 'rust' as something durable and strong. Its mascot is a crab named Ferris."
+  },
+  {
+    "question": "Which language was created by Bjarne Stroustrup as 'C with Classes' and named using the increment operator?",
+    "options": ["C++", "C#", "D", "Objective-C"],
+    "correctAnswer": 0,
+    "explanation": "C++ is named that way because '++' is the increment operator in C. The idea is that C++ is 'C incremented by one' or the next version of C."
+  }
+]

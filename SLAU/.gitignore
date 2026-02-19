@@ -1,0 +1,20 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+
+# IDE
+.vscode/
+.idea/
+
+# Project specific
+.DS_Store

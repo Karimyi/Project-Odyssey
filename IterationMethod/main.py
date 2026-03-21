@@ -30,7 +30,7 @@ def iteration_method(a, b, expression, count):
     else:
         lam = 0.1
         print("Warning: derivative is 0, using λ = 0.1")
-    
+    iteration = 0
     while iteration < count:
         f_x = calculate(expression, x_current)
         x_next = x_current - lam * f_x
